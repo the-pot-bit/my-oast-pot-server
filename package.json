@@ -1,0 +1,9 @@
+{
+  "name": "my-oast-pot-server",
+  "version": "1.0.0",
+  "description": "Custom OAST Server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
